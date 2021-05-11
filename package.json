@@ -1,0 +1,14 @@
+{
+  "name": "rafaelferres-webservices-38scj-pet-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rafaelferres/rafaelferres-webservices-38scj-pet-bot.git",
+  "author": "Rafael Ferrés <raferres@outlook.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
